@@ -1,0 +1,135 @@
+2024-06-22 16:52:59,158 - banking -INFO - url id open
+2024-06-22 16:54:34,774 - banking -INFO - url id open
+2024-06-22 16:58:42,775 - banking -INFO - url id open
+2024-06-22 16:58:43,322 - banking -INFO - Entered username
+2024-06-22 16:58:43,501 - banking -INFO - Entered password
+2024-06-22 16:58:44,995 - banking -INFO - login test fail
+2024-06-29 12:02:16,219 - banking -INFO - url id open
+2024-06-29 12:02:16,515 - banking -INFO - Entered username
+2024-06-29 12:02:16,998 - banking -INFO - Entered password
+2024-06-29 12:02:18,500 - banking -INFO - login test fail
+2024-06-29 12:02:18,508 - banking -INFO - url id open
+2024-06-29 12:02:27,426 - banking -INFO - url id open
+2024-06-29 12:24:37,148 - banking -INFO - url id open
+2024-06-29 12:24:37,544 - banking -INFO - Entered username
+2024-06-29 12:24:37,774 - banking -INFO - Entered password
+2024-06-29 12:24:37,797 - banking -INFO - login test fail
+2024-06-29 12:24:37,802 - banking -INFO - url id open
+2024-06-29 12:24:37,964 - banking -INFO - Entered username
+2024-06-29 12:24:38,500 - banking -INFO - Entered password
+2024-06-29 12:24:38,530 - banking -INFO - login test fail
+2024-06-29 12:24:38,535 - banking -INFO - url id open
+2024-06-29 12:24:38,867 - banking -INFO - Entered username
+2024-06-29 12:24:39,025 - banking -INFO - Entered password
+2024-06-29 12:24:39,039 - banking -INFO - login test fail
+2024-06-29 12:59:32,021 - banking -INFO - url id open
+2024-06-29 12:59:32,235 - banking -INFO - Entered username
+2024-06-29 12:59:32,402 - banking -INFO - Entered password
+2024-06-29 12:59:32,410 - banking -INFO - login test fail
+2024-06-29 12:59:35,460 - banking -INFO - url id open
+2024-06-29 12:59:35,577 - banking -INFO - Entered username
+2024-06-29 12:59:35,691 - banking -INFO - Entered password
+2024-06-29 12:59:35,709 - banking -INFO - login test fail
+2024-06-29 12:59:38,726 - banking -INFO - url id open
+2024-06-29 12:59:38,855 - banking -INFO - Entered username
+2024-06-29 12:59:38,988 - banking -INFO - Entered password
+2024-06-29 12:59:39,006 - banking -INFO - login test fail
+2024-06-29 13:01:41,426 - banking -INFO - url id open
+2024-06-29 13:01:41,742 - banking -INFO - Entered username
+2024-06-29 13:01:41,941 - banking -INFO - Entered password
+2024-06-29 13:01:43,320 - banking -INFO - login test fail
+2024-06-29 13:01:46,418 - banking -INFO - url id open
+2024-06-29 13:01:56,432 - banking -INFO - url id open
+2024-06-29 13:05:28,205 - banking -INFO - url id open
+2024-06-29 13:05:28,475 - banking -INFO - Entered username
+2024-06-29 13:05:28,682 - banking -INFO - Entered password
+2024-06-29 13:05:33,303 - banking -INFO - login test fail
+2024-06-29 13:05:36,345 - banking -INFO - url id open
+2024-06-29 13:05:46,380 - banking -INFO - url id open
+2024-06-29 13:15:53,962 - banking -INFO - url id open
+2024-06-29 13:15:54,251 - banking -INFO - Entered username
+2024-06-29 13:15:54,433 - banking -INFO - Entered password
+2024-06-29 13:15:57,327 - banking -INFO - Login passed
+2024-06-29 13:16:02,528 - banking -INFO - url id open
+2024-06-29 13:16:02,946 - banking -INFO - Entered username
+2024-06-29 13:16:03,167 - banking -INFO - Entered password
+2024-06-29 13:16:09,794 - banking -WARN - Login failed
+2024-06-29 13:16:09,799 - banking -INFO - url id open
+2024-06-29 13:16:10,167 - banking -INFO - Entered username
+2024-06-29 13:16:10,376 - banking -INFO - Entered password
+2024-06-29 13:16:13,133 - banking -WARN - Login failed
+2024-06-29 15:10:52,112 - banking -INFO - url id open
+2024-06-29 15:10:52,561 - banking -INFO - Entered username
+2024-06-29 15:10:52,923 - banking -INFO - Entered password
+2024-06-29 15:11:09,392 - banking -INFO - Login passed
+2024-06-29 15:11:12,410 - banking -INFO - url id open
+2024-06-29 15:11:22,470 - banking -INFO - url id open
+2024-06-29 15:11:25,198 - banking -INFO - url id open
+2024-06-29 15:11:25,216 - banking -INFO - url id open
+2024-06-29 15:11:25,234 - banking -INFO - url id open
+2024-06-30 15:24:06,972 - banking -INFO - url id open
+2024-06-30 15:24:07,259 - banking -INFO - Entered username
+2024-06-30 15:24:07,432 - banking -INFO - Entered password
+2024-06-30 15:24:20,735 - banking -WARN - Login failed
+2024-06-30 15:24:20,749 - banking -INFO - url id open
+2024-06-30 15:24:30,874 - banking -INFO - url id open
+2024-06-30 15:24:40,949 - banking -INFO - url id open
+2024-06-30 15:24:44,736 - banking -INFO - url id open
+2024-06-30 15:24:44,770 - banking -INFO - url id open
+2024-06-30 15:32:55,580 - banking -INFO - url id open
+2024-06-30 15:32:55,936 - banking -INFO - Entered username
+2024-06-30 15:32:56,126 - banking -INFO - Entered password
+2024-06-30 15:33:12,018 - banking -WARN - test fail
+2024-06-30 15:33:12,161 - banking -INFO - url id open
+2024-06-30 15:33:22,247 - banking -INFO - url id open
+2024-06-30 15:33:32,289 - banking -INFO - url id open
+2024-06-30 15:33:42,351 - banking -INFO - url id open
+2024-06-30 15:33:50,168 - banking -INFO - url id open
+2024-06-30 15:35:02,185 - banking -INFO - url id open
+2024-06-30 15:35:02,511 - banking -INFO - Entered username
+2024-06-30 15:35:02,683 - banking -INFO - Entered password
+2024-06-30 15:35:17,848 - banking -WARN - test fail
+2024-06-30 15:35:25,611 - banking -WARN - test fail
+2024-06-30 15:35:33,419 - banking -WARN - test fail
+2024-06-30 15:35:41,241 - banking -WARN - test fail
+2024-06-30 15:35:48,930 - banking -WARN - test fail
+2024-06-30 15:35:58,410 - banking -WARN - test fail
+2024-07-06 07:45:36,116 - banking -INFO - url id open
+2024-07-06 07:45:36,613 - banking -INFO - Entered username
+2024-07-06 07:45:36,788 - banking -INFO - Entered password
+2024-07-06 07:45:53,837 - banking -WARN - test fail
+2024-07-06 07:46:02,663 - banking -WARN - test fail
+2024-07-06 07:46:11,408 - banking -WARN - test fail
+2024-07-06 07:46:20,176 - banking -WARN - test fail
+2024-07-06 07:46:28,875 - banking -WARN - test fail
+2024-07-06 07:46:39,858 - banking -WARN - test fail
+2024-07-06 11:27:19,333 - eBanking -INFO - url id open
+2024-07-06 11:27:19,691 - eBanking -INFO - Entered username
+2024-07-06 11:27:20,031 - eBanking -INFO - Entered password
+2024-07-06 16:51:15,421 - eBanking -INFO - url id open
+2024-07-06 16:51:15,686 - eBanking -INFO - Entered username
+2024-07-06 16:51:15,947 - eBanking -INFO - Entered password
+2024-07-07 09:35:48,612 - eBanking -INFO - url id open
+2024-07-07 09:35:48,974 - eBanking -INFO - Entered username
+2024-07-07 09:35:49,384 - eBanking -INFO - Entered password
+2024-07-07 09:52:12,172 - eBanking -INFO - url id open
+2024-07-07 09:52:12,482 - eBanking -INFO - Entered username
+2024-07-07 09:52:12,893 - eBanking -INFO - Entered password
+2024-07-07 09:53:10,779 - eBanking -INFO - url id open
+2024-07-07 09:53:11,069 - eBanking -INFO - Entered username
+2024-07-07 09:53:11,533 - eBanking -INFO - Entered password
+2024-07-07 09:55:57,574 - eBanking -INFO - url id open
+2024-07-07 09:55:57,887 - eBanking -INFO - Entered username
+2024-07-07 09:55:58,107 - eBanking -INFO - Entered password
+2024-07-07 10:00:54,533 - eBanking -INFO - url id open
+2024-07-07 10:00:54,902 - eBanking -INFO - Entered username
+2024-07-07 10:00:55,246 - eBanking -INFO - Entered password
+2024-07-07 10:02:51,526 - eBanking -INFO - url id open
+2024-07-07 10:02:51,919 - eBanking -INFO - Entered username
+2024-07-07 10:02:52,641 - eBanking -INFO - Entered password
+2024-07-07 10:05:29,641 - eBanking -INFO - url id open
+2024-07-07 10:05:30,210 - eBanking -INFO - Entered username
+2024-07-07 10:05:30,387 - eBanking -INFO - Entered password
+2024-07-07 10:07:26,609 - eBanking -INFO - url id open
+2024-07-07 10:07:27,268 - eBanking -INFO - Entered username
+2024-07-07 10:07:27,436 - eBanking -INFO - Entered password

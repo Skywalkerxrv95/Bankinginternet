@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [banking]" guice-stage="DEVELOPMENT">
+  <parameter name="browser" value="chrome"/>
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="com.bankinternet.testcases.TC_EditCustomer_003">
+        <methods>
+          <include name="setup"/>
+          <include name="teardown"/>
+          <include name="EditCustomer"/>
+        </methods>
+      </class> <!-- com.bankinternet.testcases.TC_EditCustomer_003 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [banking] -->
